@@ -43,3 +43,8 @@ git clone https://github.com/polarapu/batch57.git
 ls
 cd batch57
 ls
+touch prasad
+git add prasad
+git commit -m "prasad file"
+git log
+git push
