@@ -38,7 +38,6 @@ git reset --mixed cid  (local to workspace)
 git reset --hard cid  (delete)
 
 ------------------------------------------------------------------------------
-
 git clone https://github.com/polarapu/batch57.git
 ls
 cd batch57
@@ -48,5 +47,5 @@ git add prasad
 git commit -m "prasad file"
 git log
 git push
-Hello all sample data from master branch !
 Test line from master1 branch!
+Test line
