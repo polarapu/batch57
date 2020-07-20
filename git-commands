@@ -47,5 +47,7 @@ git add prasad
 git commit -m "prasad file"
 git log
 git push
+<<<<<<< HEAD
 Test line from master1 branch!
 Test line
+Hello all sample data from master branch !
